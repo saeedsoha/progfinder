@@ -16,22 +16,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/test', function () {
-    return view('partials.fag');
+    return view('login');
 });
 
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('Backend/admin/index');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 
 Route::get('/' , [HomeController::class, 'index'])->name('home');
 
 
-
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
