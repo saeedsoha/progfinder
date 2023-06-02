@@ -8,7 +8,7 @@
 
                 <div class="new"><span>NEW</span> </div>
                 <div class="job-content-left">
-                    <img src="https://clickup.com/assets/images/clickup-v3.svg" alt="title">
+                    <img src="{{ asset('asset/images/cv-maker.png')}}" alt="title">
                     <div class="subtitle">Productivity, reimagined.</div>
                     <div class="detail">
                         The next evolution of team productivity and collaboration is here. Unlock the next generation of

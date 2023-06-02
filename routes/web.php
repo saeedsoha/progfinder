@@ -15,8 +15,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/works', function () {
-    return view('partials.works');
+Route::get('/test', function () {
+    return view('partials.fag');
 });
 
 

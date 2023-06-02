@@ -26,56 +26,56 @@
 
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/bosch.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/siemens.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/sap.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/telecome.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/bmw.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/Lufthansa.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/softserve.png')}}"/>
                     </div>
                 </div>
             </div>
             <div class="column">
                 <div class="grid-logo-wrapper">
-                    <div class="grid-logo active">
+                    <div class="grid-logo ">
                         <img src="{{asset('asset/images/topomponies_images/QuandaGo.png')}}"/>
                     </div>
                 </div>

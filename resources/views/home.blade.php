@@ -30,17 +30,22 @@
     @include('partials.topCompanies')
 
 
+    <!-- Job Listing Sectionfaq -->
+    @include('partials.faq')
 
-    <div class="timeline-section">
+
+
+    {{-- <div class="timeline-section">
         <!-- UserGuidelene Section -->
         <div class="userGuideLine-container">
             @include('partials.userGuideLine')
         </div>
-    </div>
+    </div> --}}
 
 
    <!-- Hero Section -->
-    @include('partials.slideshows')
+    {{-- @include('partials.slideshows') --}}
+    @include('partials.testimonial')
 
 
 

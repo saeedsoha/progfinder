@@ -18,10 +18,9 @@
                         <li class="item item1">Full Stack Devoloper </li>
                         <li class="item item2">Front End Developer</li>
                         <li class="item item3">Backend Devoloper</li>
-                        <li class="item item3">IT Analysis</li>
-                        <li class="item item3">Sequrity Expert</li>
-                        <li class="item item3">It System Manegment</li>
-                        <li class="item item3">.....</li>
+                        <li class="item item4">IT Analysis</li>
+                        <li class="item item5">Sequrity Expert</li>
+                        <li class="item item6">It System Manegment</li>
            
                       </ul>
                 </p>
